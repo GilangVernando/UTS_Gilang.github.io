@@ -1,0 +1,20 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/8e/72/ef/8e72efc9c8a7f8e33b8b802d1ae8251c.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.per {
+    margin-left: 600px;
+    margin-top: 300px;
+}
+img {
+    width: 30%;
+    margin:auto;
+    margin-top: -90px;
+    float: bottom;
+}
+.gif {
+    width: 100%;
+    margin-top: -260px;
+    margin-left: -209px;
+}
